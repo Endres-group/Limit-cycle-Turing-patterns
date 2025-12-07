@@ -14,7 +14,7 @@ Each notebook (except Supplementary_figure_dimensionality.ipynb) is expected to 
 - `Supplementary_figure_multistability.jpynb` - Effect of multistability within the system. SFig 6
 
 Requirements:
-- Python 3.9 or higher, 8 CPUs and occasionally GPUs
+- Python 3.9 or higher, 8 CPUs.
 
 ***
 
